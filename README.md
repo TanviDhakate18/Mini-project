@@ -1,4 +1,4 @@
-                                                          WEB HACKING MINI PROJECT
+                                                         # WEB HACKING MINI PROJECT
 1. Echo command:-
    The echo command is used in many operating systems (including Unix/Linux, macOS, and Windows) to display a line of text or a variable value in the terminal or command prompt.
         Syntax:- echo [options] [string]
